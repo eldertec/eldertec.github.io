@@ -1,0 +1,9 @@
+name: Eldertec
+description: Blog para assuntos relacionados a programação 
+paginate: 10
+baseurl: ''
+
+
+#Gems
+gems: [jekyll-paginate]
+
